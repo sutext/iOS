@@ -34,6 +34,7 @@
         [self.tableView reloadData];
     }
 }
+//test demo
 -(NSArray *)textArray
 {
     if (!_textArray) {
